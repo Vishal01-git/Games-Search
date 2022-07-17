@@ -3,7 +3,7 @@ Develop a front end application which would let the users help list and browse g
 developed for different platforms conveniently.
 
 ## How to run the project online
-Open the online demo [here]()
+Open the online demo [here](https://games-searcher.netlify.app/)
 
 ## Games API
 
