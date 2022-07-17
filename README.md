@@ -10,7 +10,7 @@ Open the online demo [here]()
 - [Games API](https://s3-ap-southeast-1.amazonaws.com/he-public-data/gamesarena274f2bf.json)
 
 ## How to run the project in Development Mode
-The project uses [Node.js >= 6.x](https://nodejs.org/en/) and the [Create-React-App starter code](https://github.com/facebookincubator/create-react-app).
+The project uses Node.js (https://nodejs.org/en/) and the [Create-React-App starter code](https://github.com/facebookincubator/create-react-app).
 
 After Node is installed in your system, follow the below steps.
 
